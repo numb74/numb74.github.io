@@ -11,7 +11,7 @@ github_repo: "https://github.com/numb74/numb74.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Work hard"
+sidebar-about-description: "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
 sidebar-avatar: /img/myAvatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
